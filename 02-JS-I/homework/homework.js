@@ -239,10 +239,10 @@ function esVocal(letra){
   //Escribe tu código aquí
   if (letra.length > 1) {
     return 'Dato incorrecto';
-  } else if (letra == 'a' || 'e' ||  'i' ||  'o' || 'u' ) {
-    return 'Es vocal';
-   } else {
-    return 'No es vocal';
+  } else if (letra == 'a' || 'e' ||  'i' || 'o' || 'u' ) {
+   return 'Es vocal';
+  } else {
+    return 'Dato incorrecto'
   }
 }
 
