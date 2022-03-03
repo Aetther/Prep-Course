@@ -239,9 +239,9 @@ function esVocal(letra){
   //Escribe tu código aquí
   if (letra.length > 1) {
     return 'Dato incorrecto';
-  } else if (letra.length == 1 && letra == 'a' || 'e' ||  'i' || 'o' || 'u' || 'A' || 'E' || 'I' || 'O' || 'U') {
+  } else if ((letra.length == 1) && (letra == 'a' || 'e' ||  'i' || 'o' || 'u' || 'A' || 'E' || 'I' || 'O' || 'U')) {
    return 'Es vocal';
-  } else if (letra.length == 1 && letra != 'a' || 'e' || 'i' || 'o' || 'u' ) {
+  } else {
     return 'Dato incorrecto'
   }
 }
