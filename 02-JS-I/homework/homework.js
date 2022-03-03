@@ -172,9 +172,9 @@ function esPositivo(numero) {
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
   if (numero > 0) {
-    return 'Positivo';
+    return 'Es positivo';
   } else if (numero < 0) {
-    return 'Negativo';
+    return 'Es negativo';
    } else if (numero == 0) {
      return false;
    }
@@ -199,7 +199,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return 'Hola ' + nombre;
+  return 'Hola ' + nombre +'!';
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
@@ -212,7 +212,7 @@ function obtenerAreaRectangulo(alto, ancho) {
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
-  return  lado * 5;
+  return  lado * 4;
 }
 
 
