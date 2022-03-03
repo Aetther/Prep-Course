@@ -219,7 +219,7 @@ function retornarPerimetro(lado){
 function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
-  return base * altura;
+  return (base * altura)/2;
 }
 
 
@@ -241,7 +241,7 @@ function esVocal(letra){
     return 'Dato incorrecto';
   } else if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u' ) {
     return 'Es vocal';
-  } else {
+   } else {
     return 'No es vocal';
   }
 }
