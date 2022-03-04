@@ -1,0 +1,8 @@
+Variables: es una forma de almacenamiento que puede ser modificado a cualquier tipo de datos 
+luego durante el desarrollo del codigo.
+Strings: son cadenas de textos que siempre se definen entre comillas simples o dobles.
+Funciones (argumento, return): son un tipo particular de objeto, son un conjunto de instrucciones que realiza una o mas tareas en nuestro codigo, normalmente esta 
+toma algun valor de entrada,
+al cual se le llama argumento, y devuelve una salida normalmente mediante la sentencia return.
+Declaraciones 'if': es una estructura condicional, la cual dice que si se cumple una cierta condicion impuesta, se realizara ciertas acciones o instrucciones dentro del codigo.
+Valores booleanos 'true' y 'false': son un tipo de dato que representan una verdad es decir verdadero o falso.
