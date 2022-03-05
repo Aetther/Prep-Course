@@ -1,2 +1,16 @@
-Arrays: Son listas ordenadas de valores a los que se refiere con un nombre y
-un índice. Estas a comparación de las variables contienen varios tipos de datos, no uno solo.
+for: Es una estructura iterativa, es decir, repetitiva, va a ejecutar instrucciones
+hasta que la condición de la misma sea falsa, para hacer esto primero necesitamos
+declarar una variable sobre la cual se va a repetir el bucle, luego tendremos que poner una segunda
+declaración para decir hasta donde que punto se ejecutarán las instrucciones y por ultimo debemos incrementar nuestra variable.
+
+&&: es un operador lógico, este hace referencia a 'Y' ('AND'). Este operador
+evalua varias expresiones y devuelve verdadero solamente si todas estas expresiones son verdaderas,
+de lo contrario devolverá falso.
+
+||: es otro operador lógico, pero este hace referencia a 'O' ('OR'). Este operador a diferencia
+del anterior (&&) devolverá verdadero si una de todas las expresiones que evalua es verdadera, y solamente
+falso cuando todas sean falsas.
+
+!: también es otro operador lógico como los anteriores, este operador hace referencia a una negación ('NO' o 'NOT'). Se usa el signo de exclamación (!) para usarlo. Este operador
+se usa para devolver el valor opuesto del que se lo pasa, es decir si una condición o expresión es verdadera y anteponemos este operador, en lugar de devolvernos verdadero
+nos devolverá falso. 

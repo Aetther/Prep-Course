@@ -1,0 +1,2 @@
+Arrays: Son listas ordenadas de valores a los que se refiere con un nombre y
+un índice. Estas a comparación de las variables contienen varios tipos de datos, no uno solo.
