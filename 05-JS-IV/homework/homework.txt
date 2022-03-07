@@ -1,0 +1,8 @@
+Objetos: son contenedores de datos, estos tienen similitudes con las matrices (arrays), pero a diferencia de estas
+que pueden tener multiples elementos relacionados unos con otros, los objetos contienen mucha información sobre una sola
+cosa. Estos se instancian usando llaves ('{}').
+Propiedades: es una asociación entre un nombre (o clave) y un valor.
+Métodos: es una función la cual es propiedad de un Objeto.
+Bucle: es una secuencia de instrucciones de codigo que se ejecuta repetidas veces, hasta que 
+la condicion asignada al mismo deje de cumplirse.
+Notación de puntos de corchetes: es una forma de acceso a las propiedades de un objeto.
