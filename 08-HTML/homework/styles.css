@@ -1,13 +1,13 @@
-#divClass > h1{
-    color: blue;
+#divClass > h1 {
+    color: red;
 } 
-#thirdDiv>ul>li>img {
+#thirdDiv > ul > li > img {
     width: 400px;
 }
 #thirdDiv {
     height:600px;
     width: 500px;
-    background-color: yellow;
+    background-color: black;
     padding: 50px;
     border: solid 5px black;
     border-color: black;
