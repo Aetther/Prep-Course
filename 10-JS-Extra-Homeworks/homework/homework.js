@@ -21,7 +21,7 @@ function deObjetoAmatriz(objeto){
    }
   }
  return newArray;
-
+ //Otra opcion es usar return Object.entries(objeto)
 }
 
 
